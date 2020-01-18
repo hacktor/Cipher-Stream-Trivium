@@ -1,0 +1,6 @@
+Revision history for Perl extension Cipher::Stream::Trivium.
+
+0.01  Sat Jan 18 14:55:44 2020
+	- original version; created by h2xs 1.23 with options
+		-AX -b 5.24.1 --skip-exporter --use-new-tests -n Cipher::Stream::Trivium
+
